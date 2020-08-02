@@ -3,4 +3,4 @@ project(myproject C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(myproject main.c)
+add_executable(myproject LinkedList.c)
